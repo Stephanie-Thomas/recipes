@@ -14,7 +14,7 @@ This project is about using the HTML skills I just learned and making a website 
     5. Lasly, under the ingreidents list, add an `h3` heading called steps followed by an ordered list
   
 ### Files & Purpose
-- `index.html` - Contains the root file and links all other files
+- `index.html` - Contains the root file and uses anchor elements to link files from the recipe directory to the homepage
 - `grilledcheese.html` - Contains the recipe to my amazing bacon and onion grilled cheese sandwich
 - `chickenpotpie.html` - Contains the recipe to my family favorite chicken potpie
 

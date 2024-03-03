@@ -13,8 +13,8 @@ This project is about using the HTML skills I just learned and making a website 
     4. An ingredients heading `h3` followed by an unordered ingredients needed for the recipe
     5. Lasly, under the ingreidents list, add an `h3` heading called steps followed by an ordered list
   
-### Files
-- `index.html`
-- `grilledcheese.html`
-- `chickenpotpie.html`
+### Files & Purpose
+- `index.html` - Contains the root file and links all other files
+- `grilledcheese.html` - Contains the recipe to my amazing bacon and onion grilled cheese sandwich
+- `chickenpotpie.html` - Contains the recipe to my family favorite chicken potpie
     

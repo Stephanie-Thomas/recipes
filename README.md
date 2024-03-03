@@ -17,4 +17,9 @@ This project is about using the HTML skills I just learned and making a website 
 - `index.html` - Contains the root file and links all other files
 - `grilledcheese.html` - Contains the recipe to my amazing bacon and onion grilled cheese sandwich
 - `chickenpotpie.html` - Contains the recipe to my family favorite chicken potpie
+
+### Skills
+-HTML
+-Github
+-VS code
     

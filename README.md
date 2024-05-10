@@ -11,7 +11,7 @@ This project is about using the HTML skills I just learned and making a website 
     2. An image of the finished dish under the `h1` heading
     3. A description heading with the `h2` element followed by a paragraph describing the recipe
     4. An ingredients heading `h3` followed by an unordered ingredients needed for the recipe
-    5. Lasly, under the ingreidents list, add an `h3` heading called steps followed by an ordered list
+    5. Lasly, under the ingreidents list, an `h3` heading called steps followed by an ordered list
   
 ### Files & Purpose
 - `index.html` - Contains the root file and uses anchor elements to link files from the recipe directory to the homepage

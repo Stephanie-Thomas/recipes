@@ -6,7 +6,7 @@ This project is about using the HTML skills I just learned and making a website 
 - Add a html file called `index` to that directory 
 - Then created another directory called recipes and created another html file called grilledcheese and chickenpotpie
 - Added the html boilerplate to all three files. Then gave the index file a title, a summary, and linked it with the other two.
--  `grilledcheese.html` and `chickenpotpie` both contain:
+-  `grilledcheese.html` and `chickenpotpie.html` both contain:
     1. An `h1` heading with the recupe's name as its content
     2. An image of the finished dish under the `h1` heading
     3. A description heading with the `h2` element followed by a paragraph describing the recipe
